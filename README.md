@@ -1,22 +1,64 @@
-# 🏗️ Project: Simple API 1 - Construction
+# 🏗️ Construction & Trades API Dashboard
 
-### Goal: Build a simple front-end app that displays data returned from an api that would be beneficial to someone in the trades (construction, hvac, plumbing, ect)
+### JavaScript API Integration Assignment
 
-### How to submit your code for review:
+## About the Project
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+This assignment focuses on building a simple application that uses API data to help people working in construction or other skilled trades.
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+The idea is to take information from an external API and display it in a way that's useful for someone working in the field.
+
+The goal is to practice working with APIs while thinking about how technology can solve real-world problems.
+
+## Project Goals
+
+- Find an API that provides useful information for construction or trade workers.
+- Retrieve data using JavaScript.
+- Display the information in an easy-to-understand interface.
+- Practice working with JSON responses.
+- Use DOM manipulation to update the webpage.
+
+## Planned Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Fetch API
+- Industry-related API (to be selected)
+
+## How It Would Work
+
+1. The application sends a request to a selected API.
+2. JavaScript receives and processes the response.
+3. The relevant information is displayed on the webpage.
+4. Users can review the information to help with their work or planning.
+
+## Concepts to Practice
+
+- Making API requests using `fetch()`.
+- Working with asynchronous JavaScript.
+- Understanding JSON data.
+- Working with arrays and objects.
+- Displaying information using DOM manipulation.
+- Handling errors and missing data.
+
+## Project Status
+
+**Assignment instructions available — implementation not yet uploaded.**
+
+The repository currently contains the original bootcamp assignment README but no application code.
+
+## Next Steps
+
+1. Choose a problem relevant to construction or skilled trades.
+2. Find an API that provides the necessary information.
+3. Build a simple interface.
+4. Connect the application to the API.
+5. Display the returned information.
+6. Test the application and upload the completed code.
+
+## Author
+
+**Kevin Salazar**
+
+[GitHub](https://github.com/KevSal227)
